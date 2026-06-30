@@ -23,7 +23,7 @@ Requirements
 
 pip install numpy pandas matplotlib seaborn scikit-learn scipy
 Run the Script
-bash
+
 python iris_clustering.py
 Output Highlights
 Elbow curve
